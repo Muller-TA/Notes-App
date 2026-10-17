@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "demo",
+      "email": "demo@test.com",
+      "password": "123456"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "title": "Welcome to Notes App",
+      "content": "This is a demo note. Try editing or deleting it!",
+      "userId": 1,
+      "createdAt": "2026-10-17T10:00:00.000Z"
+    }
+  ]
+}
